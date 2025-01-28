@@ -1,6 +1,4 @@
-  __    _     _     ___   _    
- / /\  | |_/ | |   / / \ | |\ |
-/_/--\ |_| \ |_|__ \_\_/ |_| \|
+
 
 - 👋 Hi, I’m @XxAKLONxX my full name is Bahroun Ghassen
 - 👀 I’m interested in web development & Digital Marketing 
